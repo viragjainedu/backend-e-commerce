@@ -1,4 +1,4 @@
-# internia-backend
+# e-commerce-backend
 
 # To run these files, do the following steps:
 1. Install NodeJS on your pc.
