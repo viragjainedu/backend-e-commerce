@@ -25,5 +25,3 @@ In body section, select raw and JSON, enter details in the format given below an
 	"email": "xyz@xyz.com",
 	"password": "xyz123"
 }
-
-# Itna karo fir aage ka batata hu 
